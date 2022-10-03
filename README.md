@@ -19,4 +19,4 @@ Do you drink cocktails? You would find some good recommendations for all the typ
 ## Snapshot of the app
 
 ![Cocktails App Part-1](cocktails-part1.JPG)
-![Cocktails App Part-2](cocktails-part2.JPG)
+![Cocktails App Part-2](cocktails-part2-updated.JPG)
